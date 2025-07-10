@@ -73,9 +73,6 @@ https://github.com/user-attachments/assets/14a6e06f-14de-4145-a600-9ea3bc864603
 https://github.com/user-attachments/assets/8cf7e631-5d1f-48bf-bb57-58edc106293b
 
 ---
-Here’s how you can professionally and clearly update your README to include a **full implementation guide** for the bottom bars you showcased in your videos. This section is detailed, structured, and consistent with the rest of your README.
-
----
 
 ## 🛠️ Implementation Guide
 
